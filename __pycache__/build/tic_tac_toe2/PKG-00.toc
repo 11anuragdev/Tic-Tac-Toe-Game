@@ -1,0 +1,41 @@
+('E:\\Python Work\\Tic_Tac_Toe Game\\build\\tic_tac_toe2\\PKG-00.pkg',
+ {'BINARY': 1,
+  'DATA': 1,
+  'EXECUTABLE': 1,
+  'EXTENSION': 1,
+  'PYMODULE': 1,
+  'PYSOURCE': 1,
+  'PYZ': 0},
+ [('PYZ-00.pyz',
+   'E:\\Python Work\\Tic_Tac_Toe Game\\build\\tic_tac_toe2\\PYZ-00.pyz',
+   'PYZ'),
+  ('struct',
+   'E:\\Python Work\\Tic_Tac_Toe '
+   'Game\\build\\tic_tac_toe2\\localpycos\\struct.pyo',
+   'PYMODULE'),
+  ('pyimod01_os_path',
+   'E:\\Python Work\\Tic_Tac_Toe '
+   'Game\\build\\tic_tac_toe2\\localpycos\\pyimod01_os_path.pyc',
+   'PYMODULE'),
+  ('pyimod02_archive',
+   'E:\\Python Work\\Tic_Tac_Toe '
+   'Game\\build\\tic_tac_toe2\\localpycos\\pyimod02_archive.pyc',
+   'PYMODULE'),
+  ('pyimod03_importers',
+   'E:\\Python Work\\Tic_Tac_Toe '
+   'Game\\build\\tic_tac_toe2\\localpycos\\pyimod03_importers.pyc',
+   'PYMODULE'),
+  ('pyiboot01_bootstrap',
+   'c:\\program '
+   'files\\python36\\lib\\site-packages\\PyInstaller\\loader\\pyiboot01_bootstrap.py',
+   'PYSOURCE'),
+  ('tic_tac_toe2',
+   'E:\\Python Work\\Tic_Tac_Toe Game\\tic_tac_toe2.py',
+   'PYSOURCE'),
+  ('tic_tac_toe2.exe.manifest',
+   'E:\\Python Work\\Tic_Tac_Toe '
+   'Game\\build\\tic_tac_toe2\\tic_tac_toe2.exe.manifest',
+   'BINARY')],
+ True,
+ False,
+ False)
